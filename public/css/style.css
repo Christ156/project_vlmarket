@@ -1,0 +1,19 @@
+body{
+    scroll-behavior: smooth;
+}
+
+.f-red-base{
+    color: rgb(123, 3, 0);
+}
+
+.bg-red-base{
+    background-color: rgb(123, 3, 0);
+}
+
+.f-red-secondary{
+    color: rgb(193, 23, 19);
+}
+
+.bg-red-secondary{
+    background-color: rgb(193, 23, 19);
+}
