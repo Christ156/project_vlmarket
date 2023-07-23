@@ -32,3 +32,5 @@ Route::post('market/search', [App\Http\Controllers\MarketController::class, 'sea
 
 // Route Profile
 Route::get('profile', [App\Http\Controllers\UserController::class, 'index'])->name('profile');
+Route::put('/profile/disable/{id}', [App\Http\Controllers\UserController::class, 'disable'])->name('disable');
+Route::put('/profile/enable/{id}',[App\Http\Controllers\UserController::class, 'enable'])->name('enable');
