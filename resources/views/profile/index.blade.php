@@ -14,7 +14,7 @@
 
             <div class="form-floating mb-3">
                 <input type="text" readonly class="form-control-plaintext" id="floatingPlaintextInput"
-                    value="{{ Auth::user()->email }}">
+                    value="{{ Auth::user()->email }} ">
                 <label for="floatingPlaintextInput">Email</label>
             </div>
         </div>

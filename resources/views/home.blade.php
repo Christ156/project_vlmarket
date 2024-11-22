@@ -95,11 +95,11 @@
                             <div class="mb-2">
                                 <div class="justify-content-between d-flex text-secondary">
                                     <p>C++</p>
-                                    <p>50%</p>
+                                    <p>85%</p>
                                 </div>
                                 <div class="progress" role="progressbar" aria-label="Danger striped example"
-                                    aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
-                                    <div class="progress-bar progress-bar-striped bg-danger" style="width: 50%"></div>
+                                    aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                    <div class="progress-bar progress-bar-striped bg-danger" style="width: 85%"></div>
                                 </div>
                             </div>
                         </div>
